@@ -1,0 +1,42 @@
+Student
+	ID
+	name
+	password
+	courses
+	
+	
+	
+	checkNotes
+	checkMessages
+	submitProjects
+	
+	
+Teacher
+	ID
+	name
+	password
+	Courses
+	
+	
+	
+	
+	sendEmailToGroup
+	sendEmailToSomeone
+	newProjectTopics
+	acceptProject
+	rejectProject
+
+
+
+Admin
+	ID
+	name
+	password
+	
+	setPricesToCourse
+	createNewCourse
+	sendEmailToEveryone
+	sendEmailToSomeone
+	addNewUser(username,password,role)
+	bansomeOne
+	
